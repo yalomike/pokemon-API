@@ -7,8 +7,6 @@ import { PokemonList } from "./components/PokemonList";
 import { PokemonCard } from "./components/PokemonCard";
 import { Ball } from "./components/Ball";
 
-import MainModal from "./components/MainModal";
-
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
